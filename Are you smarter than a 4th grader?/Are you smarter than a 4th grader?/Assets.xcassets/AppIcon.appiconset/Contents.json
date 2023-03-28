@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Are you smarter than a 4th grader.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
